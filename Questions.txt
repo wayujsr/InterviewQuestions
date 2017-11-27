@@ -1,0 +1,9 @@
+1. Difference between DOM and BOM?
+2. What is Javascript Template Engines?
+3. Where you can find list of LocalStorage in brwoser (in application tab in chrome)
+4. What is Hoisting in Javascript?
+5. Difference between undefined and null?
+6. What is strict mode in Javascript? "use strict"
+
+
+
